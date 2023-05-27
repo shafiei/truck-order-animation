@@ -1,7 +1,6 @@
 # truck-order-animation
 Complete Order Button (Delivery Truck On Road Animation)
-
-<image src=”https://raw.githubusercontent.com/shafiei/truck-order-animation/main/Order-Button-to-Top-Down-View-Delivery-Truck-on-Road-Animation.gif”></image>
+<img src="https://github.com/shafiei/truck-order-animation/blob/main/Order-Button-to-Top-Down-View-Delivery-Truck-on-Road-Animation.gif?raw=true" alt="">
 <p>
 The truck-order-animation repository showcases an interactive and visually appealing Complete Order button animation featuring a delivery truck on the road. This project utilizes HTML, CSS, and JavaScript to create a seamless animation that represents the successful completion of an order within a delivery logistics system.
 
